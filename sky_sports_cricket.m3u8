@@ -3,4 +3,5 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="Sky Sports cricket"
-http://6395online.com:8080/live/Chandasack9066/9066/540986
+http://6395online.com:8080/live/Chandasack9066/9066/540986.m3u8
+
