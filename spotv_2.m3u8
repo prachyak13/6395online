@@ -3,5 +3,6 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="SPOTV 2"
-http://6395online.com:8080/live/Chandasack9066/9066/391454.m3u8
+http://6395online.com:8080/live/Chandasack9066/9066/521748.m3u8
+#http://6395online.com:8080/live/Chandasack9066/9066/391454.m3u8
 
