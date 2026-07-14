@@ -1,0 +1,20 @@
+{
+  "name": "FIFA_TH",
+  "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg",
+  "stations": [
+    { "name": "fifa Max 1", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa1.m3u8" },
+    { "name": "fifa Max 2", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa2.m3u8" },
+    { "name": "fifa Max 3", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa3.m3u8" },
+    { "name": "fifa Max 4", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa4.m3u8" },
+    { "name": "fifa Max 5", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa5.m3u8" },
+    { "name": "fifa Max 6", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa6.m3u8" },
+    { "name": "fifa Max 7", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa7.m3u8" },
+    { "name": "fifa Max 8", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa8.m3u8" },
+    { "name": "fifa Max 9", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa9.m3u8" },
+    { "name": "fifa Max 10", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa10.m3u8" },
+    { "name": "fifa Max 11", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa11.m3u8" },
+    { "name": "fifa Max 12", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa12.m3u8" },
+    { "name": "fifa Max 13", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa13.m3u8" },
+    { "name": "fifa Max 14", "image": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-sea/ory9uzmnmwtapgvso2ba.jpg", "url": "https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/v2/fifa14.m3u8" }
+  ]
+}
