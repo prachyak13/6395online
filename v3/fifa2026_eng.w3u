@@ -36,6 +36,48 @@
       "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en4.m3u8",
       "referer": "https://github.com/",
       "userAgent": ""
+55555},
+        {
+        "name": "fussball.tv1 HD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/1_1hd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+    },
+    {
+      "name": "fussball.tv1 FHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/2_1fhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+    },
+    {
+      "name": "fussball.tv2 FHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/3_2fhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+ },
+    {
+      "name": "fussball.tv3 FHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/4_3fhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+    },
+    {
+      "name": "fussball.tv1 UHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/5_1uhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+    {
+      "name": "fussball.tv2 UHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/6_2uhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+},
+    {
+      "name": "fussball.tv3 UHD",
+      "image": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/fussball_tv.jpg",
+      "url": "https://raw.githubusercontent.com/prachyak13/fussball/refs/heads/main/7_3uhd.m3u8",
+      "userAgent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
     }
   ]
 }
