@@ -1,0 +1,41 @@
+{
+  "name": "FIFA-2026_[ENG]",
+  "image": "https://www.graphicnews.com/media/GN/47924/W/jpg/EN",
+  "stations": [
+    {
+      "name": "worldcup 2026[1]",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/TOBITV/refs/heads/main/bein_fr_4k.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": ""
+    },
+    {
+      "name": "worldcup 2026[2]",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en1.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": ""
+    },
+    {
+      "name": "worldcup 2026[3]",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en2.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": ""
+    },
+    {
+      "name": "worldcup 2026[4]",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en3.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": ""
+    },
+    {
+      "name": "worldcup 2026[5]",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",
+      "url": "https://raw.githubusercontent.com/prachyak13/image/refs/heads/main/worldcup2026_en4.m3u8",
+      "referer": "https://github.com/",
+      "userAgent": ""
+    }
+  ]
+}
