@@ -1,268 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3Bb Asian" tvg-logo="" group-title="My Channels",3Bb Asian
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",3Bb Asian
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/3bb_asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 1" tvg-logo="" group-title="My Channels",Ais Max 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 2" tvg-logo="" group-title="My Channels",Ais Max 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 3" tvg-logo="" group-title="My Channels",Ais Max 3
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 3
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 4" tvg-logo="" group-title="My Channels",Ais Max 4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 5" tvg-logo="" group-title="My Channels",Ais Max 5
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 5
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ais Max 6" tvg-logo="" group-title="My Channels",Ais Max 6
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Ais Max 6
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/ais_max_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian More" tvg-logo="" group-title="My Channels",Asian More
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Asian More
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/asian_more.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="My Channels",Axn
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Axn
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/axn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1 Th" tvg-logo="" group-title="My Channels",Bein 1 Th
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 1 Th
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_1_th.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 1 Th Backup" tvg-logo="" group-title="My Channels",Bein 1 Th Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 1 Th Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_1_th_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 2 Th" tvg-logo="" group-title="My Channels",Bein 2 Th
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 2 Th
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_2_th.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 2 Th Backup" tvg-logo="" group-title="My Channels",Bein 2 Th Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 2 Th Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_2_th_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 3 Th" tvg-logo="" group-title="My Channels",Bein 3 Th
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 3 Th
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_3_th.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein 3 Th Backup" tvg-logo="" group-title="My Channels",Bein 3 Th Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Bein 3 Th Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/bein_3_th_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blueant Entertainment" tvg-logo="" group-title="My Channels",Blueant Entertainment
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Blueant Entertainment
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/blueant_entertainment.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blueant Extreme" tvg-logo="" group-title="My Channels",Blueant Extreme
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Blueant Extreme
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/blueant_extreme.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="My Channels",Cinemax
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Cinemax
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/cinemax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="My Channels",Dazn 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Dazn 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/dazn_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="My Channels",Dazn 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Dazn 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/dazn_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="My Channels",Dazn 3
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Dazn 3
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/dazn_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="" group-title="My Channels",Dazn 4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Dazn 4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/dazn_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Epl Skybet 2" tvg-logo="" group-title="My Channels",Epl Skybet 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Epl Skybet 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/epl_skybet_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Epl Skybet 3" tvg-logo="" group-title="My Channels",Epl Skybet 3
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Epl Skybet 3
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/epl_skybet_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Espn 1" tvg-logo="" group-title="My Channels",Espn 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Espn 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/espn_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 1" tvg-logo="" group-title="My Channels",Fifa World Cup 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 1Backup" tvg-logo="" group-title="My Channels",Fifa World Cup 1Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 1Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_1backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 2" tvg-logo="" group-title="My Channels",Fifa World Cup 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 2Backup" tvg-logo="" group-title="My Channels",Fifa World Cup 2Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 2Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_2backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 4" tvg-logo="" group-title="My Channels",Fifa World Cup 4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fifa World Cup 6" tvg-logo="" group-title="My Channels",Fifa World Cup 6
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Fifa World Cup 6
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/fifa_world_cup_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 Hd" tvg-logo="" group-title="My Channels",Golf 2 Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Golf 2 Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/golf_2_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thai" tvg-logo="" group-title="My Channels",Golf Channel Thai
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Golf Channel Thai
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/golf_channel_thai.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family Hd" tvg-logo="" group-title="My Channels",Hbo Family Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Hbo Family Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/hbo_family_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Hd" tvg-logo="" group-title="My Channels",Hbo Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Hbo Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/hbo_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Hits Hd" tvg-logo="" group-title="My Channels",Hbo Hits Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Hbo Hits Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/hbo_hits_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Signature" tvg-logo="" group-title="My Channels",Hbo Signature
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Hbo Signature
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/hbo_signature.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hifight" tvg-logo="" group-title="My Channels",Hifight
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Hifight
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/hifight.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Id Station" tvg-logo="" group-title="My Channels",Id Station
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Id Station
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/id_station.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lfc B" tvg-logo="" group-title="My Channels",Lfc B
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Lfc B
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/lfc_b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="" group-title="My Channels",Livesky 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Livesky 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/livesky_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="" group-title="My Channels",Livesky 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Livesky 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/livesky_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mono29Plus" tvg-logo="" group-title="My Channels",Mono29Plus
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Mono29Plus
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/mono29plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monomax 1" tvg-logo="" group-title="My Channels",Monomax 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Monomax 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/monomax_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monomax 4" tvg-logo="" group-title="My Channels",Monomax 4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Monomax 4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/monomax_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monomax 5" tvg-logo="" group-title="My Channels",Monomax 5
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Monomax 5
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/monomax_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monomaxsports" tvg-logo="" group-title="My Channels",Monomaxsports
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Monomaxsports
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/monomaxsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mutv B" tvg-logo="" group-title="My Channels",Mutv B
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Mutv B
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/mutv_b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nba" tvg-logo="" group-title="My Channels",Nba
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Nba
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/nba.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nba Prime" tvg-logo="" group-title="My Channels",Nba Prime
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Nba Prime
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/nba_prime.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nbc Sports Washington" tvg-logo="" group-title="My Channels",Nbc Sports Washington
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Nbc Sports Washington
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/nbc_sports_washington.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" group-title="My Channels",One
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",One
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/one.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="My Channels",Series
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Series
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/series.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="" group-title="My Channels",Sky Sports Action
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Action
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_action.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="" group-title="My Channels",Sky Sports Arena
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Arena
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_arena.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="My Channels",Sky Sports Cricket
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Cricket
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_cricket.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Epl" tvg-logo="" group-title="My Channels",Sky Sports Epl
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Epl
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_epl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="My Channels",Sky Sports F1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports F1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_f1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="" group-title="My Channels",Sky Sports Football
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Football
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_football.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="" group-title="My Channels",Sky Sports Golf
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Golf
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_golf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mainevent" tvg-logo="" group-title="My Channels",Sky Sports Mainevent
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Mainevent
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_mainevent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="" group-title="My Channels",Sky Sports Mix
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sky Sports Mix
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sky_sports_mix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv" tvg-logo="" group-title="My Channels",Sport Tv
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sport Tv
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sport_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv2" tvg-logo="" group-title="My Channels",Sport Tv2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sport Tv2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sport_tv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv3" tvg-logo="" group-title="My Channels",Sport Tv3
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Sport Tv3
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/sport_tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tns Sport 4" tvg-logo="" group-title="My Channels",Tns Sport 4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Tns Sport 4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/tns_sport_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Fight Hd" tvg-logo="" group-title="My Channels",Top Fight Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Top Fight Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/top_fight_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toyota Gazoo Racing Thailand 2" tvg-logo="" group-title="My Channels",Toyota Gazoo Racing Thailand 2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Toyota Gazoo Racing Thailand 2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/toyota_gazoo_racing_thailand_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Film Asia" tvg-logo="" group-title="My Channels",True Film Asia
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Film Asia
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_film_asia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Film Hd" tvg-logo="" group-title="My Channels",True Film Hd
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Film Hd
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_film_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Film Hd2" tvg-logo="" group-title="My Channels",True Film Hd2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Film Hd2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_film_hd2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Movie Hits" tvg-logo="" group-title="My Channels",True Movie Hits
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Movie Hits
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_movie_hits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Series" tvg-logo="" group-title="My Channels",True Series
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Series
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_series.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Tennis" tvg-logo="" group-title="My Channels",True Tennis
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Tennis
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_tennis.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Thai Film" tvg-logo="" group-title="My Channels",True Thai Film
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",True Thai Film
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/true_thai_film_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport 5" tvg-logo="" group-title="My Channels",Truesport 5
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport 5
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport 7" tvg-logo="" group-title="My Channels",Truesport 7
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport 7
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd1" tvg-logo="" group-title="My Channels",Truesport Hd1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd1 Backup" tvg-logo="" group-title="My Channels",Truesport Hd1 Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd1 Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd1_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd2" tvg-logo="" group-title="My Channels",Truesport Hd2
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd2
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd2 Backup" tvg-logo="" group-title="My Channels",Truesport Hd2 Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd2 Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd2_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd3" tvg-logo="" group-title="My Channels",Truesport Hd3
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd3
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd3 Backup" tvg-logo="" group-title="My Channels",Truesport Hd3 Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd3 Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd3_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd4" tvg-logo="" group-title="My Channels",Truesport Hd4
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd4
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd5" tvg-logo="" group-title="My Channels",Truesport Hd5
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd5
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd5 Backup" tvg-logo="" group-title="My Channels",Truesport Hd5 Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd5 Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd5_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd7" tvg-logo="" group-title="My Channels",Truesport Hd7
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd7
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Truesport Hd7 Backup" tvg-logo="" group-title="My Channels",Truesport Hd7 Backup
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Truesport Hd7 Backup
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/truesport_hd7_backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tsn 1" tvg-logo="" group-title="My Channels",Tsn 1
-#EXT-X-USER-AGENT:Player (Linux; Android 9)
+#EXTINF:-1 group-title="My Channels",Tsn 1
 https://raw.githubusercontent.com/prachyak13/6395online/refs/heads/main/tsn_1.m3u8
